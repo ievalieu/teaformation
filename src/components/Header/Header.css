@@ -1,0 +1,20 @@
+header {
+	background: #000000;
+	font-family: Arial;
+	text-align: center;
+	padding: 5px 0;
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+
+/*Brand*/
+#tea {
+	color: #ffffff;
+	font-size: 36px;
+}
+#formation {
+	color: pink;
+	font-size: 36px;
+}
